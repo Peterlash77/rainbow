@@ -1,0 +1,12 @@
+body{
+    font-size: 47px;
+    background: hsla(161, 26%, 81%, 0.74);
+}
+
+h1{
+    text-transform: uppercase;
+    color: aqua;
+    background: linear-gradient(45deg,red,orange,yellow,green,blue,indigo,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
